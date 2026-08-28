@@ -65,8 +65,8 @@ Display all filtered images using a grid layout for comparison.
 
 ##  Developed By
 
-- **Name:** PRABANJAN R
-- **Register No:** 212224230198
+- **Name:** VIGNESH V
+- **Register No:** 212224230303
 
 ---
 
@@ -93,7 +93,9 @@ plt.title("Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="892" height="267" alt="image" src="https://github.com/user-attachments/assets/fad77d25-e01b-481d-8583-568f6d0e0a28" />
+
+<img width="873" height="548" alt="image" src="https://github.com/user-attachments/assets/426774fa-98f7-4873-affc-187492445c30" />
+
 
 ## ii) Using Weighted Averaging Filter
 ```
@@ -104,7 +106,8 @@ plt.title("Weighted Average Filter Image")
 plt.axis("off")
 plt.show()
 ```
-<img width="682" height="398" alt="image" src="https://github.com/user-attachments/assets/f02cb45f-43b4-466c-a1e8-c69c38025635" />
+
+<img width="381" height="513" alt="image" src="https://github.com/user-attachments/assets/c3e8f324-ce2d-4af4-89c5-65387756a569" />
 
 ## iii) Using Gaussian Filter
 ```
@@ -114,7 +117,8 @@ plt.title("Gaussian Blur")
 plt.axis("off")
 plt.show()
 ```
-<img width="660" height="391" alt="image" src="https://github.com/user-attachments/assets/be266a8f-ef81-487f-acb3-6cca9c05b2fc" />
+
+<img width="380" height="514" alt="image" src="https://github.com/user-attachments/assets/993886e5-d459-4f23-a5ea-542405ef9a12" />
 
 ## iv)Using Median Filter
 ```
@@ -123,7 +127,9 @@ plt.title("Median Blur")
 plt.axis("off")
 plt.show()
 ```
-<img width="572" height="325" alt="image" src="https://github.com/user-attachments/assets/a69f4455-1928-498a-9220-f7f16235184f" />
+
+<img width="638" height="538" alt="image" src="https://github.com/user-attachments/assets/f587fe4b-3a04-452f-a882-c230ece01fba" />
+
 
 ## 2. Sharpening Filters
 ## i) Using Laplacian Linear Kernal
@@ -135,7 +141,8 @@ plt.title("Laplacian Kernel")
 plt.axis("off")
 plt.show()
 ```
-<img width="662" height="400" alt="image" src="https://github.com/user-attachments/assets/b5bf72e3-7cae-4332-bde6-7fe132bd0fd2" />
+<img width="384" height="516" alt="image" src="https://github.com/user-attachments/assets/3d6f9126-77df-4ca6-838f-ff7d35bd5f92" />
+
 
 ## ii) Using Laplacian Operator
 ```
@@ -146,8 +153,7 @@ plt.axis("off")
 plt.show()
 ```
 
-<img width="1362" height="427" alt="image" src="https://github.com/user-attachments/assets/3abc052f-8f41-4778-a5e8-d106d62589b3" />
-
+<img width="386" height="506" alt="image" src="https://github.com/user-attachments/assets/99b43b3d-ae98-48a2-919c-df732c51ef3e" />
 
 
 
